@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Licocrankshaft</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="okay">Okay</string>
+
+    <string name="google_android_map_api_key">AIzaSyD6S22ro0TJv7qWK-NTsZnG_nbJM7xWufM</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="mission">To achieve the finest we give our customers much credits as without their motivation we could not have reached
+                    where we are at the moment. We consider customers as a part of our business. We aim to provide our client with
+                    highest quality of product and service. Furthermore, we also highly acknowledge our employees who put in great
+                    efforts to achieve the best result.
+    </string>
+
+    <string name="vision">We aim to expand our market share with affordable and finest quality crankshafts and uninterrupted delivery of our
+                        product and services to our customers. Here, at SLS, we believe to leave a positive imprint on society as we achieve
+                        business and financial success.</string>
+
+    <string name="certificate">We are a reliable and respectable, quality-driven organization.\n\n
+
+At Sri Laxmi Spares India, we are committed to providing the highest quality products to our clients. The ISO certification applies to all facets of our operations, right from research, process development and service delivery to overall improving the customer experience.\n\n
+
+With ISO registered Quality Management System, we are dedicated to meet our client requirements the first time, on-time and every time. We regularly track, appraise and improve our processes and procedures to ensure compliance with international quality standards and to provide the best quality crankshafts.\n\n
+
+We ensure and maintain the consistency of your operations. We continually monitor the progress of our services or solutions as they go through each stage of production, from client specifications to execution and internal quality verification to customer feedback.</string>
+
+    <string name="adress">Plot No.2642,
+        G.I.D.C.Lodhika,
+        Kranti Gate Main Road,
+        Metoda, Tal:-Lodhika,
+        Dist.Rajkot State:Gujrat</string>
+
+    <string name="about">
+       \nQuality and satisfaction of customers is our first priority.\n\n
+
+Our journey towards achieving success and excellence began back in 1980 when the owners decided to be one of the very first crankshaft manufacturing companies in Rajkot, Gujarat and now with experience of over 38 years in the field of manufacturing crankshafts, the company is guided by adept and very professional directors.\n\n
+
+We started our journey by manufacturing Lister type crankshaft. After acquiring enough experience in the same discipline we then indulged ourselves into manufacturing of multitudinous crankshafts such as Petter oil engine and Lombardini crankshaft.\n\n
+
+The company manufactures fully finished and semi-finished steel forged as well as cast iron crankshafts. Along with key Original Equipment Manufacturers, we have developed extensive range of crankshafts which has application in sectors such as Agriculture, Power Generation, Automobile and Earth moving equipment. To ensure accuracy, we manufacture all the crankshafts precisely according to O.E. specifications and on CNC lines adapting state of the art technology.\n\n
+
+It is through years of rigorous efforts that we learned and made progress. It is the customers who made us stronger and more confident. We fully assure that we make progress by bringing in the latest technological advancements. With strong foot hold, the company works with even more conviction and determination.
+    </string>
+
+    <string name="qualityassurance">\nIn order to adhere to stringent quality control measures highly accurate instruments of renowned make are used during manufacturing process. We provide a list of exhaustive measuring equipment used by us in manufacturing facility such as Micrometer, Digital Vernier Caliper, Snap Gauge, Slip Gauge, Digital Master Height Gauge.\n\n
+
+Further to satisfy our customer needs, various reports like metallurgical testing comprising chemical composition as well as micro-structure together with Millipore report are periodically done through NABL approved agencies.</string>
+
+
+    <string name="url">http://licocrankshaft.com/</string>
+
+    <string name="site_url">http://licocrankshaft.com</string>
+</resources>

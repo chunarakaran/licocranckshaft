@@ -88,7 +88,7 @@ public class HomeFragment extends Fragment implements BaseSliderView.OnSliderCli
 //        url_maps.put("Game of Thrones", "http://images.boomsbeat.com/data/images/full/19640/game-of-thrones-season-4-jpg.jpg");
 
         HashMap<String,Integer> file_maps = new HashMap<String, Integer>();
-        file_maps.put("WELCOME Shri Lakshmi Spares Pvt. Ltd.",R.drawable.slider1);
+        file_maps.put("WELCOME Sri Lakshmi Spares Pvt. Ltd.",R.drawable.slider1);
         file_maps.put("QUALITY WORK",R.drawable.slider2);
         file_maps.put("Cutting Edge Technology",R.drawable.lico_video);
 
